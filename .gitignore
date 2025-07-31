@@ -2,6 +2,7 @@
 dab4ec6 (Updated project scripts)
 *.csv
 *.xlsx
+ d9d95cf (Stop tracking .xlsx files)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
