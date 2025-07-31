@@ -1,7 +1,7 @@
 # Ignore csv
 dab4ec6 (Updated project scripts)
 *.csv
-
+*.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
