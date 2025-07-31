@@ -1,3 +1,5 @@
+# Ignore csv
+dab4ec6 (Updated project scripts)
 *.csv
 
 # Byte-compiled / optimized / DLL files
